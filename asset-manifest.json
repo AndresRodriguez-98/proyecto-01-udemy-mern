@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/proyecto-01-udemy-mern/static/css/main.e6c13ad2.css",
+    "main.js": "/proyecto-01-udemy-mern/static/js/main.e88a85f1.js",
+    "index.html": "/proyecto-01-udemy-mern/index.html",
+    "main.e6c13ad2.css.map": "/proyecto-01-udemy-mern/static/css/main.e6c13ad2.css.map",
+    "main.e88a85f1.js.map": "/proyecto-01-udemy-mern/static/js/main.e88a85f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e88a85f1.js"
+  ]
+}
